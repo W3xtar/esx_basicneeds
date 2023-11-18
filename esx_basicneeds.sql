@@ -1,0 +1,15 @@
+INSERT INTO `items` (`name`, `label`, `weight`) VALUES
+	('bread', 'Bread', 1),
+	('burger', 'Burger', 1),
+	('hotdog', 'Hotdog', 1),
+	('taco', 'Tacos', 1),
+	('sandwich', 'Sandwich', 1),
+	('donut1', 'donate chocolate', 1),
+	('donut2', 'Donate sugar', 1),
+	('pie', 'Pie', 1),
+	('beer', 'Beer', 1),
+	('wine', 'Wine', 1),
+	('vodka', 'Vodka', 1),
+	('tequila', 'Tequila', 1),
+	('whisky', 'Whisky', 1),
+;
